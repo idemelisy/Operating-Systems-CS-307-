@@ -1,0 +1,44 @@
+2025-10-28 15:36:25.245 [error] Error getting repo info: Failed to execute git
+2025-10-28 15:36:25.245 [error] Error: Failed to execute git
+	at t.Git._exec (/home/ide.yilmaz/.cursor-server/cli/servers/Stable-5c17eb2968a37f66bc6662f48d6356a100b67be0/server/extensions/git/dist/main.js:2:34408)
+	at async t.Git.exec (/home/ide.yilmaz/.cursor-server/cli/servers/Stable-5c17eb2968a37f66bc6662f48d6356a100b67be0/server/extensions/git/dist/main.js:2:33531)
+	at async t.GitProvider.executeGitCommandStable (/home/ide.yilmaz/.cursor-server/cli/servers/Stable-5c17eb2968a37f66bc6662f48d6356a100b67be0/server/extensions/cursor-retrieval/dist/main.js:2:1287776)
+	at async t.GitProvider.getRepoInfo (/home/ide.yilmaz/.cursor-server/cli/servers/Stable-5c17eb2968a37f66bc6662f48d6356a100b67be0/server/extensions/cursor-retrieval/dist/main.js:2:1263728)
+2025-10-28 15:36:25.245 [info] Creating Indexing Repo client:  https://repo42.cursor.sh
+2025-10-28 15:36:25.245 [info] Creating repo client with backend url: https://repo42.cursor.sh
+2025-10-28 15:36:25.260 [info] Making keys for a new index
+2025-10-28 15:36:25.334 [info] Using the default key from the server for a new index
+2025-10-28 15:36:25.334 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-10-28 15:36:25.490 [info] Using existing keys for an index
+2025-10-28 15:36:25.490 [info] InternalRepoInfo constructor with preferredEmbeddingModel 0
+2025-10-28 15:36:25.501 [error] We currently do not allow indexing the home directory.
+2025-10-28 15:36:25.501 [info] Indexing job successfully done or aborted.
+2025-10-28 15:36:25.663 [warning] Failed to get symbolic ref: Failed to execute git
+2025-10-28 15:36:25.667 [warning] Failed to read .git/HEAD: A system error occurred (ENOENT: no such file or directory, open '/home/ide.yilmaz/.git/HEAD')
+2025-10-28 15:36:25.681 [warning] Failed to get branches from remote: Failed to execute git
+2025-10-28 15:36:25.682 [warning] Failed to get default branch from git config: Failed to execute git
+2025-10-28 15:41:19.502 [info] multiCodebaseIndexingJob dispose
+2025-10-28 15:41:19.502 [info] Aborting indexing job.
+2025-10-28 15:41:19.502 [error] We currently do not allow indexing the home directory.
+2025-10-28 15:41:19.502 [info] Indexing job successfully done or aborted.
+2025-10-28 15:46:09.302 [error] Error getting user commits: Failed to execute git
+2025-10-28 15:46:13.502 [info] multiCodebaseIndexingJob dispose
+2025-10-28 15:46:13.502 [info] Aborting indexing job.
+2025-10-28 15:46:13.502 [error] We currently do not allow indexing the home directory.
+2025-10-28 15:46:13.502 [info] Indexing job successfully done or aborted.
+2025-10-28 15:51:07.501 [info] multiCodebaseIndexingJob dispose
+2025-10-28 15:51:07.501 [info] Aborting indexing job.
+2025-10-28 15:51:07.502 [error] We currently do not allow indexing the home directory.
+2025-10-28 15:51:07.502 [info] Indexing job successfully done or aborted.
+2025-10-28 15:56:01.501 [info] multiCodebaseIndexingJob dispose
+2025-10-28 15:56:01.502 [info] Aborting indexing job.
+2025-10-28 15:56:01.502 [error] We currently do not allow indexing the home directory.
+2025-10-28 15:56:01.502 [info] Indexing job successfully done or aborted.
+2025-10-28 15:56:09.296 [error] Error getting user commits: Failed to execute git
+2025-10-28 16:00:55.501 [info] multiCodebaseIndexingJob dispose
+2025-10-28 16:00:55.501 [info] Aborting indexing job.
+2025-10-28 16:00:55.501 [error] We currently do not allow indexing the home directory.
+2025-10-28 16:00:55.501 [info] Indexing job successfully done or aborted.
+2025-10-28 16:04:39.876 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/ide.yilmaz/.gitmodules')
+2025-10-28 16:04:53.606 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/ide.yilmaz/.gitmodules')
+2025-10-28 16:05:12.267 [error] Error getting submodules: A system error occurred (ENOENT: no such file or directory, open '/home/ide.yilmaz/.gitmodules')

@@ -1,0 +1,4 @@
+Listening on 127.0.0.1:36741
+[2025-10-28 15:36:20] info Disposed of connection to running server.
+[2025-10-28 15:36:20] info Checking /home/ide.yilmaz/.cursor-server/cli/servers/Stable-5c17eb2968a37f66bc6662f48d6356a100b67be0/log.txt and /home/ide.yilmaz/.cursor-server/cli/servers/Stable-5c17eb2968a37f66bc6662f48d6356a100b67be0/pid.txt for a running server...
+[2025-10-28 15:36:20] info Found running server (pid=3989284)

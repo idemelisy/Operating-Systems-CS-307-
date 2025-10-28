@@ -1,0 +1,28 @@
+2025-10-28 15:36:23.759 [info] Extension host with pid 3989817 started
+2025-10-28 15:36:23.768 [info] Lock '/home/ide.yilmaz/.cursor-server/data/User/workspaceStorage/8767f95fe127d543705eff8a14b3a523/vscode.lock': Lock acquired.
+2025-10-28 15:36:23.934 [info] ExtensionService#_doActivateExtension cursor.cursor-browser-automation, startup: false, activationEvent: 'onCommand:cursor.browserAutomation.stop'
+2025-10-28 15:36:23.936 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: '*', root cause: vscode.git
+2025-10-28 15:36:23.936 [info] ExtensionService#_doActivateExtension anysphere.cursor-browser-connect, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 15:36:23.937 [info] ExtensionService#_doActivateExtension anysphere.cursor-mcp, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 15:36:23.937 [info] ExtensionService#_doActivateExtension anysphere.cursor-shadow-workspace, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 15:36:23.938 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 15:36:23.938 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 15:36:24.452 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: '*'
+2025-10-28 15:36:24.453 [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+2025-10-28 15:36:24.654 [info] ExtensionService#_doActivateExtension anysphere.cursor-retrieval, startup: false, activationEvent: 'onStartupFinished'
+2025-10-28 15:36:25.038 [info] Eager extensions activated
+2025-10-28 15:38:32.159 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-10-28 15:58:48.390 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-10-28 15:58:53.609 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-28 15:58:53.609 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2025-10-28 15:58:53.609 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2025-10-28 16:04:38.838 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850
+2025-10-28 16:04:40.071 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850
+2025-10-28 16:04:47.060 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850
+2025-10-28 16:04:52.163 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850
+2025-10-28 16:04:53.568 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850
+2025-10-28 16:04:57.257 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850
+2025-10-28 16:05:06.360 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850
+2025-10-28 16:05:11.655 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850
+2025-10-28 16:05:16.859 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850
+2025-10-28 16:05:22.338 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3850

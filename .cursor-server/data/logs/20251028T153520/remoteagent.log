@@ -1,0 +1,23 @@
+2025-10-28 15:35:20.643 [info] 
+
+
+
+
+2025-10-28 15:35:20.654 [info] Extension host agent started.
+2025-10-28 15:35:20.672 [info] Started initializing default profile extensions in extensions installation folder. file:///home/ide.yilmaz/.cursor-server/extensions
+2025-10-28 15:35:20.681 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/ide.yilmaz/.cursor-server/extensions
+2025-10-28 15:35:20.683 [info] [<unknown>][bf96bc24][ExtensionHostConnection] New connection established.
+2025-10-28 15:35:20.689 [info] [<unknown>][c168bd70][ManagementConnection] New connection established.
+2025-10-28 15:35:20.747 [info] Getting extensions control
+2025-10-28 15:35:20.846 [info] [<unknown>][bf96bc24][ExtensionHostConnection] <3989323> Launched Extension Host Process.
+2025-10-28 15:36:07.826 [info] [<unknown>][c168bd70][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-10-28 15:36:07.862 [info] [<unknown>][bf96bc24][ExtensionHostConnection] <3989323> Extension Host Process exited with code: 0, signal: null.
+2025-10-28 15:36:07.863 [info] Cancelling previous shutdown timeout
+2025-10-28 15:36:07.863 [info] Last EH closed, waiting before shutting down
+2025-10-28 15:36:20.247 [info] [<unknown>][b7dc300a][ExtensionHostConnection] New connection established.
+2025-10-28 15:36:20.250 [info] [<unknown>][b7dc300a][ExtensionHostConnection] <3989817> Launched Extension Host Process.
+2025-10-28 15:36:20.255 [info] [<unknown>][40b3a147][ManagementConnection] New connection established.
+2025-10-28 15:41:07.865 [info] New EH opened, aborting shutdown
+2025-10-28 15:41:07.868 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (file:///home/ide.yilmaz/.cursor-server/cli/servers/Stable-5c17eb2968a37f66bc6662f48d6356a100b67be0/server/out/server-main.js:178:1092)
+    at process.emit (node:events:530:35)

@@ -1,0 +1,30 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "python.defaultInterpreterPath": "C:\\Users\\ideme\\miniconda3\\envs\\gymenv\\python.exe",
+    "git.confirmSync": false,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "launch": {
+        "configurations": []
+    },
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "remote.SSH.remotePlatform": {
+        "cs305.sabanciuniv.edu": "linux",
+        "172.21.134.16": "linux",
+        "cs307.sabanciuniv.edu": "linux"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "jest.runMode": "watch",
+    "cursor.cpp.disabledLanguages": [
+        "plaintext",
+        "markdown",
+        "scminput"
+    ],
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "workbench.colorTheme": "Quiet Light"
+}

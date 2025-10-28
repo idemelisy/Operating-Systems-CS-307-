@@ -1,0 +1,25 @@
+2025-10-28 15:35:25.345 [info] [main] Log level: Info
+2025-10-28 15:35:25.345 [info] [main] Validating found git in: "git"
+2025-10-28 15:35:25.345 [info] [main] Using git "2.34.1" from "git"
+2025-10-28 15:35:25.345 [info] [Model][doInitialScan] Initial repository scan started
+2025-10-28 15:35:25.345 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-10-28 15:35:25.345 [info] > git config --get remote.origin.url [4ms]
+2025-10-28 15:35:25.345 [info] > git symbolic-ref --short refs/remotes/origin/HEAD [15ms]
+2025-10-28 15:35:25.345 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-28 15:35:25.349 [info] > git rev-parse --verify origin/main [13ms]
+2025-10-28 15:35:25.349 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-28 15:35:25.355 [info] > git rev-parse --verify origin/master [2ms]
+2025-10-28 15:35:25.355 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-28 15:35:25.360 [info] > git rev-parse --verify origin/develop [2ms]
+2025-10-28 15:35:25.360 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-28 15:35:25.364 [info] > git branch -r [1ms]
+2025-10-28 15:35:25.364 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2025-10-28 15:35:25.368 [info] > git config --get init.defaultBranch [1ms]
+2025-10-28 15:35:34.683 [info] > git config --global user.name [2ms]
+2025-10-28 15:35:34.687 [info] > git config --global user.email [1ms]
+2025-10-28 15:35:34.687 [info] [main] Stored git author name in global state:  <>

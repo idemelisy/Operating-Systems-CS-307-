@@ -1,0 +1,24 @@
+Server bound to /tmp/cursor-cd9f790d-5b02-4fd8-a2d2-87b91d470dc1
+Extension host agent listening on /tmp/cursor-cd9f790d-5b02-4fd8-a2d2-87b91d470dc1
+
+[15:35:20] 
+
+
+
+
+[15:35:20] Extension host agent started.
+[15:35:20] Started initializing default profile extensions in extensions installation folder. file:///home/ide.yilmaz/.cursor-server/extensions
+[15:35:20] Completed initializing default profile extensions in extensions installation folder. file:///home/ide.yilmaz/.cursor-server/extensions
+[15:35:20] [<unknown>][bf96bc24][ExtensionHostConnection] New connection established.
+[15:35:20] [<unknown>][c168bd70][ManagementConnection] New connection established.
+[15:35:20] Getting extensions control
+[15:35:20] [<unknown>][bf96bc24][ExtensionHostConnection] <3989323> Launched Extension Host Process.
+[15:36:07] [<unknown>][c168bd70][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[15:36:07] [<unknown>][bf96bc24][ExtensionHostConnection] <3989323> Extension Host Process exited with code: 0, signal: null.
+Cancelling previous shutdown timeout
+[15:36:07] Cancelling previous shutdown timeout
+Last EH closed, waiting before shutting down
+[15:36:07] Last EH closed, waiting before shutting down
+[15:36:20] [<unknown>][b7dc300a][ExtensionHostConnection] New connection established.
+[15:36:20] [<unknown>][b7dc300a][ExtensionHostConnection] <3989817> Launched Extension Host Process.
+[15:36:20] [<unknown>][40b3a147][ManagementConnection] New connection established.
