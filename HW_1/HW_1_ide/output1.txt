@@ -1,3 +1,2 @@
-RED
-GREEN
-BLUE
+red
+green
