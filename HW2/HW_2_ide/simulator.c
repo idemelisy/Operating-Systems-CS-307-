@@ -67,8 +67,7 @@ void* processJobs(void* arg) {
     int my_id = my_arg -> id;
     free(my_arg);
 
-    // Main loop, each iteration tries to fetch work from the local queue or
-    // steal from another queue, executes one time slice, then reinserts unfinished jobs.
+    
     while (!stop_threads) {
         Task* task = fetchTask(my_queue);
 

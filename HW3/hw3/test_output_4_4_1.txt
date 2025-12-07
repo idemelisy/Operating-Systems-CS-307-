@@ -1,0 +1,15 @@
+Thread ID: 140421004142144 | Status: Arrived at the IC.
+Thread ID: 140421004142144 | Status: Only 1 students inside, studying individually.
+Thread ID: 140420995749440 | Status: Arrived at the IC.
+Thread ID: 140420995749440 | Status: Only 2 students inside, studying individually.
+Thread ID: 140420987356736 | Status: Arrived at the IC.
+Thread ID: 140420987356736 | Status: Only 3 students inside, studying individually.
+Thread ID: 140420978964032 | Status: Arrived at the IC.
+Thread ID: 140420978964032 | Status: There are enough students, the study session is starting.
+Thread ID: 140420995749440 | Status: Session tutor speaking, the session is over.
+Thread ID: 140421004142144 | Status: I am a student and I am leaving.
+Thread ID: 140420987356736 | Status: I am a student and I am leaving.
+Thread ID: 140420995749440 | Status: I am a student and I am leaving.
+Thread ID: 140420978964032 | Status: I am a student and I am leaving.
+Thread ID: 140420978964032 | Status: All students have left, the new students can come.
+The Main terminates.

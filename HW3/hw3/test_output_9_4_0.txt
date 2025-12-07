@@ -1,0 +1,29 @@
+Thread ID: 139863268144704 | Status: Arrived at the IC.
+Thread ID: 139863268144704 | Status: Only 1 students inside, studying individually.
+Thread ID: 139863259752000 | Status: Arrived at the IC.
+Thread ID: 139863259752000 | Status: Only 2 students inside, studying individually.
+Thread ID: 139863251359296 | Status: Arrived at the IC.
+Thread ID: 139863251359296 | Status: Only 3 students inside, studying individually.
+Thread ID: 139863242966592 | Status: Arrived at the IC.
+Thread ID: 139863242966592 | Status: There are enough students, the study session is starting.
+Thread ID: 139863234573888 | Status: Arrived at the IC.
+Thread ID: 139863234573888 | Status: Only 5 students inside, studying individually.
+Thread ID: 139863226181184 | Status: Arrived at the IC.
+Thread ID: 139863226181184 | Status: Only 6 students inside, studying individually.
+Thread ID: 139863217788480 | Status: Arrived at the IC.
+Thread ID: 139863217788480 | Status: Only 7 students inside, studying individually.
+Thread ID: 139863209395776 | Status: Arrived at the IC.
+Thread ID: 139863209395776 | Status: Only 8 students inside, studying individually.
+Thread ID: 139863126963776 | Status: Arrived at the IC.
+Thread ID: 139863126963776 | Status: Only 9 students inside, studying individually.
+Thread ID: 139863242966592 | Status: I am a student and I am leaving.
+Thread ID: 139863226181184 | Status: I am a student and I am leaving.
+Thread ID: 139863259752000 | Status: I am a student and I am leaving.
+Thread ID: 139863234573888 | Status: I am a student and I am leaving.
+Thread ID: 139863234573888 | Status: All students have left, the new students can come.
+Thread ID: 139863268144704 | Status: I am a student and I am leaving.
+Thread ID: 139863251359296 | Status: I am a student and I am leaving.
+Thread ID: 139863217788480 | Status: I am a student and I am leaving.
+Thread ID: 139863209395776 | Status: I am a student and I am leaving.
+Thread ID: 139863126963776 | Status: I am a student and I am leaving.
+The Main terminates.

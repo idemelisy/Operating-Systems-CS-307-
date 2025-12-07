@@ -1,0 +1,49 @@
+---
+pid: 15152
+cwd: |
+  C:\Users\ideme
+---
+ide.yilmaz@cs307.sabanciuniv.edu's password:
+90018ccfb352: running
+Found existing installation at /home/ide.yilmaz/.cursor-server...
+Starting VS Code CLI... "/home/ide.yilmaz/.cursor-server/cursor-21a2ed198584d56a91c0b996d1a09c93f8538440" command-shell --cli-data-dir "/home/ide.yilmaz/.cursor-server/cli" --on-port --on-host=127.0.0.1 --parent-process-id 15663 &> "/home/ide.yilmaz/.cursor-server/.cli.21a2ed198584d56a91c0b996d1a09c93f8538440.log" < /dev/null
+printenv:
+    SHELL=/bin/bash
+    PWD=/home/ide.yilmaz
+    LOGNAME=ide.yilmaz
+    XDG_SESSION_TYPE=tty
+    MOTD_SHOWN=pam
+    HOME=/home/ide.yilmaz
+    LANG=en_US.UTF-8
+    VSCODE_AGENT_FOLDER=/home/ide.yilmaz/.cursor-server
+    SSH_CONNECTION=10.51.108.120 11718 10.3.0.91 22
+    XDG_SESSION_CLASS=user
+    USER=ide.yilmaz
+    SHLVL=0
+    XDG_SESSION_ID=9360
+    XDG_RUNTIME_DIR=/run/user/45313
+    SSH_CLIENT=10.51.108.120 11718 22
+    PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+    DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/45313/bus
+    _=/usr/bin/printenv
+Removing old logfile at /home/ide.yilmaz/.cursor-server/.cli.21a2ed198584d56a91c0b996d1a09c93f8538440.log
+Spawned remote CLI: 15682
+Waiting for server log...
+90018ccfb352: start
+SSH_AUTH_SOCK====
+DISPLAY====
+listeningOn==127.0.0.1:43143==
+osReleaseId==ubuntu==
+arch==x86_64==
+vscodeArch==x64==
+bitness==64==
+tmpDir==/run/user/45313==
+platform==linux==
+unpackResult====
+didLocalDownload==0==
+downloadTime====
+installTime====
+serverStartTime==54==
+execServerToken==4b5ce77c-0857-4890-acee-42c224cec937==
+90018ccfb352: end
+         client_loop: send disconnect: Connection reset
