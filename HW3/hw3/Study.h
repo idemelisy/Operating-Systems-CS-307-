@@ -8,22 +8,23 @@
 
 class Study {
 private:
-    // Synchronization primitives
-    sem_t mutex;              // Protect shared state
+    // Synchronization primitives (kept simple on purpose)
+    sem_t mutex;              // Protect shared state; tried a pure lock once and hit busy-wait
     sem_t roomSlots;          // Counting semaphore for available slots in the room
-    sem_t sessionStarted;     // Semaphore to notify waiting students when session starts
-    sem_t tutorAnnounced;     // Semaphore to block students until tutor announces (if tutor exists)
-    sem_t departureBarrier;   // Barrier for departure synchronization (unused)
+    sem_t entryGate;          // Binary gate: blocks new arrivals while a session is active
+    sem_t sessionStarted;     // Signals when a session begins
+    pthread_barrier_t sessionBarrier; // Fans out tutor announcement without loops
+    bool barrierInitialized;  // Tracks barrier lifecycle
+    pthread_mutex_t printMutex; // Serialize stdout for atomic prints
     
     // Shared state variables
     int sessionSize;          // Minimum students needed for group study
     int tutorPresent;         // Whether tutor is available (0 or 1)
     int studentsInside;       // Current count of students in study center
     int studentsInSession;    // Students currently in active session
-    int waitingForSession;    // Threads waiting for a session to start
+    int waitingForSession;    // Threads waiting inside for session to form
     bool sessionActive;       // Is a session currently running
     pthread_t sessionTutor;   // Thread ID of the tutor for current session
-    bool tutorHasAnnounced;   // Has tutor announced session end
 
 public:
     // Constructor

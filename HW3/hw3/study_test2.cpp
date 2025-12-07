@@ -37,9 +37,8 @@ int main(int argc, char *argv[]){
     vector<pthread_t> allThreads;
     try {
         study = new Study(sessionSize, tutorPresent);   
-    } catch (const std::exception& e) {
-        // Catch all exceptions derived from std::exception
-        std::cout << "Exception caught: " << e.what() << std::endl;
+    } catch (...) {
+        printf("An error occurred.\n");
         return 0;
     }
 
