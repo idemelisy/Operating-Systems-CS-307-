@@ -1,0 +1,12 @@
+# Default ignore everything, then whitelist project folders
+*
+!.gitignore
+!HW3/
+!recit_codes/
+
+# Ignore IDE/server binaries, logs, and cursor artifacts
+.vscode-server/
+.cursor-server/
+.cursor/
+.cursor/projects/
+
